@@ -1,0 +1,1 @@
+/home/camh/Retro68-build/toolchain/bin/m68k-apple-macos-gcc    CMakeFiles/TESample.dir/TESample.c.obj  -o TESample.code.bin 

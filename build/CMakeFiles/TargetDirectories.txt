@@ -1,0 +1,4 @@
+/home/camh/Documents/Retro68kApps/TESample/build/CMakeFiles/rebuild_cache.dir
+/home/camh/Documents/Retro68kApps/TESample/build/CMakeFiles/edit_cache.dir
+/home/camh/Documents/Retro68kApps/TESample/build/CMakeFiles/TESample_APPL.dir
+/home/camh/Documents/Retro68kApps/TESample/build/CMakeFiles/TESample.dir
